@@ -1,4 +1,4 @@
-# XMRig NVIDIA
+# Webchain XMRig NVIDIA - Monkins1010
 
 :warning: **You must update miners to version 2.5 before April 6 due [Monero PoW change](https://getmonero.org/2018/02/11/PoW-change-and-key-reuse.html).**
 
